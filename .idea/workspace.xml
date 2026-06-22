@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b69284b-283f-4ea6-a1b8-218bb26bba40" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/py tutorials/assignment_4_classes_exception_handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/assignment_4_classes_exception_handling.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vaibhavavhad264&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vaibhavavhad264/data_science.git&quot;,
+    &quot;accountId&quot;: &quot;7a0c47da-50af-43f6-9009-26787932590a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/anaconda3/Lib/encodings/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0094206540122133" />
+      <entry key="MS500" value="1.5125424459087076" />
+      <entry key="S2" value="4.301511008502583" />
+      <entry key="S5" value="7.45986143286079" />
+      <entry key="S10" value="9.47250971446288" />
+      <entry key="S30" value="12.218702760002747" />
+      <entry key="S60" value="15.85871822011324" />
+      <entry key="M2" value="22.838960802914656" />
+      <entry key="M5" value="33.340071294630576" />
+      <entry key="M10" value="42.72624884580645" />
+      <entry key="M15" value="54.53114004194301" />
+      <entry key="M30" value="103.30496251040412" />
+      <entry key="H1" value="216.3821190803916" />
+      <entry key="H2" value="409.5477115236319" />
+      <entry key="H4" value="651.9645655973416" />
+      <entry key="D1" value="1123.2668477099187" />
+      <entry key="W1" value="1260.556867388179" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.600224361298639E-171" />
+      <entry key="S2" value="2.6078609360491395E-43" />
+      <entry key="S5" value="1.0053288427323422E-17" />
+      <entry key="S10" value="4.233309722653029E-9" />
+      <entry key="S30" value="0.003106688005863012" />
+      <entry key="S60" value="0.09553422580143756" />
+      <entry key="M2" value="0.5339657571139592" />
+      <entry key="M5" value="1.511211082044133" />
+      <entry key="M10" value="2.4230482661771457" />
+      <entry key="M15" value="3.667583186402262" />
+      <entry key="M30" value="10.103982229606153" />
+      <entry key="H1" value="25.98129312627042" />
+      <entry key="H2" value="50.54916141398765" />
+      <entry key="H4" value="78.84706222157709" />
+      <entry key="D1" value="131.8469114898765" />
+      <entry key="W1" value="147.1635942467506" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9885833435086846" />
+      <entry key="MS500" value="1.5056247058326118" />
+      <entry key="S2" value="4.296383468611616" />
+      <entry key="S5" value="7.456314898688631" />
+      <entry key="S10" value="9.470257346433895" />
+      <entry key="S30" value="12.220443718840286" />
+      <entry key="S60" value="15.947536537130079" />
+      <entry key="M2" value="23.354969292789015" />
+      <entry key="M5" value="34.83052994271905" />
+      <entry key="M10" value="45.13015313744961" />
+      <entry key="M15" value="58.17574191196364" />
+      <entry key="M30" value="113.37041651072356" />
+      <entry key="H1" value="242.30713954186527" />
+      <entry key="H2" value="460.03521354858174" />
+      <entry key="H4" value="730.7593760611197" />
+      <entry key="D1" value="1255.0980924370244" />
+      <entry key="W1" value="1407.7179355730923" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FACi7nPha4rtNVETqssFnDrj5R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_vol_cylinder.executor": "Run",
+    "Python.11_tuple.executor": "Run",
+    "Python.12_modules_and_pip.executor": "Run",
+    "Python.13_file_handling.executor": "Run",
+    "Python.14_assignment.executor": "Run",
+    "Python.15_oops.executor": "Run",
+    "Python.16_class.executor": "Run",
+    "Python.17_inheritance.executor": "Run",
+    "Python.18_exception_handling.executor": "Run",
+    "Python.19_1_main()_method.executor": "Run",
+    "Python.19_2_test.executor": "Run",
+    "Python.20_assignment.executor": "Run",
+    "Python.7_expenses.executor": "Run",
+    "Python.8_while_loop.executor": "Run",
+    "Python.9_functions.executor": "Run",
+    "Python.list_dish.executor": "Run",
+    "Python.oddEven.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b69284b-283f-4ea6-a1b8-218bb26bba40" name="Changes" comment="" />
+      <created>1781508612339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781508612339</updated>
+      <workItem from="1781508613480" duration="14415000" />
+      <workItem from="1781538581059" duration="4067000" />
+      <workItem from="1781657801128" duration="7526000" />
+      <workItem from="1781771483330" duration="5943000" />
+      <workItem from="1781792324874" duration="3694000" />
+      <workItem from="1781797709091" duration="1152000" />
+      <workItem from="1781799272582" duration="2250000" />
+      <workItem from="1781801893421" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1781799680322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781799680322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$12_modules_and_pip.coverage" NAME="12_modules_and_pip Coverage Results" MODIFIED="1781657896956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$8_while_loop.coverage" NAME="8_while_loop Coverage Results" MODIFIED="1781512972501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$9_functions.coverage" NAME="9_functions Coverage Results" MODIFIED="1781514542322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$11_tuple.coverage" NAME="11_tuple Coverage Results" MODIFIED="1781521252923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$20_assignment.coverage" NAME="20_assignment Coverage Results" MODIFIED="1781801570817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$19_2_test.coverage" NAME="19_2_test Coverage Results" MODIFIED="1781796611429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$15_oops.coverage" NAME="15_oops Coverage Results" MODIFIED="1781772458795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$13_file_handling.coverage" NAME="13_file_handling Coverage Results" MODIFIED="1781661151399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$17_inheritance.coverage" NAME="17_inheritance Coverage Results" MODIFIED="1781777265559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$18_exception_handling.coverage" NAME="18_exception_handling Coverage Results" MODIFIED="1781793952613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$19_1_main___method.coverage" NAME="19_1_main()_method Coverage Results" MODIFIED="1781794821808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$10_vol_cylinder.coverage" NAME="10_vol_cylinder Coverage Results" MODIFIED="1781516018499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$list_dish.coverage" NAME="list_dish Coverage Results" MODIFIED="1781510046201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$14_assignment.coverage" NAME="14_assignment Coverage Results" MODIFIED="1781664707695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$7_expenses.coverage" NAME="7_expenses Coverage Results" MODIFIED="1781511288734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$oddEven.coverage" NAME="oddEven Coverage Results" MODIFIED="1781509302125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py tutorials" />
+    <SUITE FILE_PATH="coverage/code$16_class.coverage" NAME="16_class Coverage Results" MODIFIED="1781776388000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
