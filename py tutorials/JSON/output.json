@@ -1,0 +1,15 @@
+{
+    "name": "Vaibhav",
+    "age": 30,
+    "is_employed": true,
+    "skill": [
+        "Python",
+        "Data Analysis",
+        "ML"
+    ],
+    "Address": {
+        "Street": "123 Main Street",
+        "city": "San Francisco",
+        "state": "CA"
+    }
+}
