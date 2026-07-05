@@ -37,3 +37,14 @@ cupon_code = {
 @app.get("/cupon_code/{code}")
 def cupon(code : int):
     return {f"Discount amount : {cupon_code.get(code)}"}
+
+
+
+
+
+
+
+
+
+
+
