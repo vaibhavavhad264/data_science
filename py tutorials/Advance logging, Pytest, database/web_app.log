@@ -1,0 +1,10 @@
+2026-07-06 13:43:13,253 - root - INFO - User admin is logged in.
+2026-07-06 13:43:13,253 - root - INFO - Data processed : good_data
+2026-07-06 13:43:13,253 - root - INFO - User admin logged out.
+2026-07-06 13:43:35,736 - root - INFO - User admin is logged in.
+2026-07-06 13:43:35,736 - root - ERROR - Error processing data : Invalid data
+Traceback (most recent call last):
+  File "C:\code\py tutorials\Advance logging, Pytest, database\logging_3.py", line 15, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2026-07-06 13:43:35,737 - root - INFO - User admin logged out.
