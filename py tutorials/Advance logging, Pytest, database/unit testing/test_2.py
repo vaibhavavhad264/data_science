@@ -1,7 +1,7 @@
 import pytest
 
 def multiply(x, y):
-    return x ** y
+    return x * y
 
 def divide(a, y):
     if y == 0:
