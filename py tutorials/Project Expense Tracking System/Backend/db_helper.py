@@ -1,5 +1,6 @@
 import mysql.connector
 from contextlib import contextmanager
+from datetime import date
 
 @contextmanager
 def get_db_cursor(commit = False):
@@ -11,11 +12,15 @@ def get_db_cursor(commit = False):
     )
 
     cursor = connection.cursor(dictionary = True)
-    yield cursor
-    if commit:
-        connection.commit()
-    cursor.close()
-    connection.close()
+    try:
+        yield cursor
+        connection.commit()      # <-- This is required
+    except:
+        connection.rollback()
+        raise
+    finally:
+        cursor.close()
+        connection.close()
 
 def fetch_all_records():
     with get_db_cursor() as cursor:
@@ -39,6 +44,8 @@ def delete_expenses_for_date(expense_date):
     with get_db_cursor() as cursor:
         cursor.execute("delete from expenses where expense_date = %s", (expense_date,))
 
+    print("Expenses deleted successfully")
+
 def fetch_expense_summary(st_date, end_date):
     with get_db_cursor() as cursor:
         cursor.execute('''SELECT category, SUM(amount) AS total 
@@ -49,21 +56,21 @@ def fetch_expense_summary(st_date, end_date):
         return data
 
 if __name__ == "__main__":
-    # exp = fetch_by_date("2024-08-03")
+    # exp = fetch_by_date("2024-08-20")
     # for expenses in exp:
     #     print(expenses)
 
     # insert_expenses("2024-08-20", 1200, "Food", "ICE-CREAM")
     # exp = fetch_by_date("2024-08-20")
     # print(exp)
-
-    # delete_expenses_for_date("2024-08-20")
+    #
+    delete_expenses_for_date("2024-08-20")
     # exp = fetch_by_date("2024-08-20")
     # print(exp)
 
-    summary = fetch_expense_summary("2024-08-01", "2024-08-05")
-    for data in summary:
-        print(data)
+    # summary = fetch_expense_summary("2024-08-01", "2024-08-05")
+    # for data in summary:
+    #     print(data)
 
 
 
