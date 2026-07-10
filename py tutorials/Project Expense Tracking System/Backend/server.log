@@ -1,0 +1,13 @@
+2026-07-10 02:03:27,106 - db_helper - INFO - Fetching expense by date 2024-08-20
+2026-07-10 02:03:27,207 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-05
+2026-07-10 02:03:52,410 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-10 02:03:52,493 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-05
+2026-07-10 12:46:41,647 - db_helper - INFO - Fetching expense by date 2024-08-28
+2026-07-10 12:50:46,608 - db_helper - INFO - Fetching expense by date 2024-08-28
+2026-07-10 12:51:29,291 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 2000.0, category : Food, notes : Milk Badam Shake
+2026-07-10 12:52:54,623 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 2000.0, category : Food, notes : Milk Badam Shake
+2026-07-10 12:54:35,835 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 2000.0, category : Food, notes : Milk Badam Shake
+2026-07-10 12:54:35,844 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 1200.0, category : MOVIE_TICKET, notes : Movie Time
+2026-07-10 12:56:35,987 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 1200.0, category : MOVIE_TICKET, notes : Movie Time
+2026-07-10 13:01:33,443 - db_helper - INFO - Delete expense by date: 2024-08-28
+2026-07-10 13:01:33,470 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 1200.0, category : MOVIE_TICKET, notes : Movie Time
