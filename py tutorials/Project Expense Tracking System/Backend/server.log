@@ -11,3 +11,177 @@
 2026-07-10 12:56:35,987 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 1200.0, category : MOVIE_TICKET, notes : Movie Time
 2026-07-10 13:01:33,443 - db_helper - INFO - Delete expense by date: 2024-08-28
 2026-07-10 13:01:33,470 - db_helper - INFO - Insert expense by date: 2024-08-28, amount : 1200.0, category : MOVIE_TICKET, notes : Movie Time
+2026-07-11 04:00:21,208 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:08:32,597 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:12:48,652 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 04:13:45,973 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:26:23,368 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:26:33,985 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:26:41,218 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:28:10,051 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:30:34,354 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:31:26,786 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:31:58,880 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:32:04,714 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:33:45,801 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:39:10,192 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:41:48,330 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:44:06,545 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:44:35,135 - db_helper - INFO - Fetching expense by date 2024-08-31
+2026-07-11 04:44:43,116 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:45:21,217 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:45:55,942 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:46:08,707 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:46:36,734 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:47:32,149 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:47:46,861 - db_helper - INFO - Fetching expense by date 2024-08-08
+2026-07-11 04:47:52,842 - db_helper - INFO - Fetching expense by date 2024-08-14
+2026-07-11 04:47:56,845 - db_helper - INFO - Fetching expense by date 2024-08-07
+2026-07-11 04:48:02,133 - db_helper - INFO - Fetching expense by date 2024-08-06
+2026-07-11 04:48:10,267 - db_helper - INFO - Fetching expense by date 2024-08-11
+2026-07-11 04:48:15,675 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 04:48:21,172 - db_helper - INFO - Fetching expense by date 2024-08-08
+2026-07-11 04:48:58,450 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:49:15,293 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 04:49:27,595 - db_helper - INFO - Fetching expense by date 2024-08-17
+2026-07-11 04:49:33,989 - db_helper - INFO - Fetching expense by date 2024-08-19
+2026-07-11 04:49:39,071 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:49:43,050 - db_helper - INFO - Fetching expense by date 2024-08-12
+2026-07-11 04:49:52,792 - db_helper - INFO - Fetching expense by date 2024-08-24
+2026-07-11 04:49:58,732 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:50:06,243 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:50:15,950 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 04:51:00,910 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 04:51:07,601 - db_helper - INFO - Fetching expense by date 2024-08-15
+2026-07-11 04:51:15,329 - db_helper - INFO - Fetching expense by date 2024-08-28
+2026-07-11 04:51:32,836 - db_helper - INFO - Fetching expense by date 2024-08-20
+2026-07-11 04:51:47,672 - db_helper - INFO - Fetching expense by date 2024-08-19
+2026-07-11 04:51:53,162 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:51:56,896 - db_helper - INFO - Fetching expense by date 2024-08-19
+2026-07-11 04:52:03,543 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 04:52:08,311 - db_helper - INFO - Fetching expense by date 2024-08-08
+2026-07-11 04:52:13,494 - db_helper - INFO - Fetching expense by date 2024-08-06
+2026-07-11 04:52:18,341 - db_helper - INFO - Fetching expense by date 2024-08-04
+2026-07-11 04:52:23,330 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 04:52:27,815 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:52:32,759 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 04:52:38,273 - db_helper - INFO - Fetching expense by date 2024-08-28
+2026-07-11 04:53:18,680 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:53:28,968 - db_helper - INFO - Fetching expense by date 2024-08-07
+2026-07-11 04:55:40,209 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:55:47,496 - db_helper - INFO - Fetching expense by date 2024-08-06
+2026-07-11 04:56:00,300 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 04:56:08,292 - db_helper - INFO - Fetching expense by date 2024-08-20
+2026-07-11 05:01:25,202 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:01:32,011 - db_helper - INFO - Fetching expense by date 2024-08-07
+2026-07-11 05:01:39,165 - db_helper - INFO - Fetching expense by date 2024-08-09
+2026-07-11 05:01:45,254 - db_helper - INFO - Fetching expense by date 2024-08-04
+2026-07-11 05:04:14,603 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:04:29,155 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:04:35,568 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:10:25,715 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:10:35,777 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:10:42,494 - db_helper - INFO - Fetching expense by date 2024-08-11
+2026-07-11 05:10:47,716 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 05:10:53,634 - db_helper - INFO - Fetching expense by date 2024-08-28
+2026-07-11 05:11:43,433 - db_helper - INFO - Fetching expense by date 2024-08-28
+2026-07-11 05:11:50,771 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:12:01,220 - db_helper - INFO - Fetching expense by date 2024-08-08
+2026-07-11 05:12:17,273 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 05:12:22,594 - db_helper - INFO - Fetching expense by date 2024-08-12
+2026-07-11 05:12:28,108 - db_helper - INFO - Fetching expense by date 2024-08-14
+2026-07-11 05:12:33,546 - db_helper - INFO - Fetching expense by date 2024-08-17
+2026-07-11 05:12:38,382 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:12:51,268 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:13:02,023 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:13:08,373 - db_helper - INFO - Fetching expense by date 2024-08-05
+2026-07-11 05:13:14,379 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:13:21,013 - db_helper - INFO - Fetching expense by date 2024-08-05
+2026-07-11 05:13:38,598 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:26:49,046 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:27:05,536 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:27:14,536 - db_helper - INFO - Fetching expense by date 2024-08-21
+2026-07-11 05:27:20,171 - db_helper - INFO - Fetching expense by date 2024-08-17
+2026-07-11 05:27:31,253 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 05:28:08,454 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 05:28:10,528 - db_helper - INFO - Delete expense by date: 2024-08-16
+2026-07-11 05:28:10,548 - db_helper - INFO - Insert expense by date: 2024-08-16, amount : 1227.0, category : Rent, notes : Monthly rent payment
+2026-07-11 05:28:10,575 - db_helper - INFO - Insert expense by date: 2024-08-16, amount : 300.0, category : Food, notes : Groceries for the week
+2026-07-11 05:28:10,595 - db_helper - INFO - Insert expense by date: 2024-08-16, amount : 1200.0, category : Rent, notes : Monthly rent payment
+2026-07-11 05:28:10,614 - db_helper - INFO - Insert expense by date: 2024-08-16, amount : 300.0, category : Food, notes : Groceries for the week
+2026-07-11 05:28:10,632 - db_helper - INFO - Insert expense by date: 2024-08-16, amount : 2000.0, category : Shopping, notes : Buy Some Expensive Cloths
+2026-07-11 05:28:19,610 - db_helper - INFO - Fetching expense by date 2024-08-15
+2026-07-11 05:28:24,197 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 05:28:31,029 - db_helper - INFO - Fetching expense by date 2024-08-24
+2026-07-11 05:28:37,192 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:28:47,844 - db_helper - INFO - Fetching expense by date 2024-08-22
+2026-07-11 05:28:52,383 - db_helper - INFO - Fetching expense by date 2024-08-12
+2026-07-11 05:28:59,245 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:42:14,808 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:42:36,006 - db_helper - INFO - Fetching expense by date 2024-08-21
+2026-07-11 05:42:47,931 - db_helper - INFO - Fetching expense by date 2024-08-14
+2026-07-11 05:43:00,689 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:43:05,518 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:43:20,370 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:49:03,043 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:50:24,907 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:50:35,051 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:50:45,050 - db_helper - INFO - Fetching expense by date 2024-08-13
+2026-07-11 05:52:13,291 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:52:20,225 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:52:26,558 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 05:53:04,522 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:53:21,073 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 05:58:58,781 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 05:59:15,771 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 06:01:21,144 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 06:01:36,566 - db_helper - INFO - Fetching expense by date 2024-08-22
+2026-07-11 06:08:03,833 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 06:08:09,669 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 06:08:24,879 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 06:08:33,035 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 06:08:52,669 - db_helper - INFO - Fetching expense by date 2024-08-04
+2026-07-11 06:14:00,045 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 06:14:11,725 - db_helper - INFO - Fetching expense by date 2024-08-09
+2026-07-11 06:14:17,181 - db_helper - INFO - Fetching expense by date 2024-08-08
+2026-07-11 06:14:22,216 - db_helper - INFO - Fetching expense by date 2024-08-07
+2026-07-11 06:14:26,707 - db_helper - INFO - Fetching expense by date 2024-08-06
+2026-07-11 06:14:45,014 - db_helper - INFO - Fetching expense by date 2024-08-01
+2026-07-11 06:14:52,761 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 06:15:07,538 - db_helper - INFO - Fetching expense by date 2024-08-03
+2026-07-11 06:38:34,855 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 06:39:12,888 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 06:39:14,983 - db_helper - INFO - Delete expense by date: 2024-08-10
+2026-07-11 06:39:15,001 - db_helper - INFO - Insert expense by date: 2024-08-10, amount : 10.0, category : Food, notes : Cadbury
+2026-07-11 06:39:25,883 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 06:39:35,100 - db_helper - INFO - Fetching expense by date 2024-08-11
+2026-07-11 06:39:40,438 - db_helper - INFO - Fetching expense by date 2024-08-02
+2026-07-11 06:45:28,581 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 06:45:36,154 - db_helper - INFO - Fetching expense by date 2024-08-16
+2026-07-11 07:01:19,175 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-05
+2026-07-11 07:01:42,481 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-05
+2026-07-11 07:10:34,222 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:16:20,240 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:16:29,401 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:20:14,001 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:20:20,637 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:20:29,613 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:24:24,075 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:26:02,479 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:26:34,512 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:26:47,008 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:28:43,801 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:30:41,884 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:30:49,265 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:32:25,872 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:32:38,032 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:32:40,092 - db_helper - INFO - Delete expense by date: 2024-08-10
+2026-07-11 07:32:40,113 - db_helper - INFO - Insert expense by date: 2024-08-10, amount : 10.0, category : Food, notes : Cadbury
+2026-07-11 07:33:11,757 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-05
+2026-07-11 07:33:29,875 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-10
+2026-07-11 07:33:39,050 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-15
+2026-07-11 07:33:48,689 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-20
+2026-07-11 07:33:58,005 - db_helper - INFO - Fetching expense summary by date 2024-08-01 and end date 2024-08-02
+2026-07-11 07:34:24,914 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:34:26,414 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 07:34:29,613 - db_helper - INFO - Fetching expense by date 2024-08-10

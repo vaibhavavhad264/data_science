@@ -1,3 +1,4 @@
+"""
 import datetime
 
 import streamlit as st
@@ -32,16 +33,38 @@ import pandas as pd
 #
 #
 
-st.title("Interactive Widget Example")
+# st.title("Interactive Widget Example")
+#
+# if st.checkbox("SHOW/HIDE"):
+#     st.write("Checkbox is checked")
+#
+# option = st.selectbox("Select a number", [1, 2, 3, 4])
+# st.write(f" You Selected {option}")
+#
+# options = st.multiselect("Select an option", [1, 2, 3, 4])
+# st.write(f" You Selected {options}")
 
-if st.checkbox("SHOW/HIDE"):
-    st.write("Checkbox is checked")
+"""
+import streamlit as st
+from updated_ui import add_update_tab
+from analytics import add_analytics_tab
 
-option = st.selectbox("Select a number", [1, 2, 3, 4])
-st.write(f" You Selected {option}")
 
-options = st.multiselect("Select an option", [1, 2, 3, 4])
-st.write(f" You Selected {options}")
+
+st.title("Expense Tracking System")
+
+tab1, tab2 = st.tabs(["Add/Update", "Analytics"])
+
+with tab1:
+    add_update_tab()
+
+with tab2:
+    add_analytics_tab()
+
+
+
+
+
 
 
 
