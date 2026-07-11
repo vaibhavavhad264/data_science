@@ -48,18 +48,22 @@ import pandas as pd
 import streamlit as st
 from updated_ui import add_update_tab
 from analytics import add_analytics_tab
+from analyticsByMonth import add_analytics_month_tab
 
 
 
 st.title("Expense Tracking System")
 
-tab1, tab2 = st.tabs(["Add/Update", "Analytics"])
+tab1, tab2, tab3 = st.tabs(["Add/Update", "Analytics", "Analytics By Month"])
 
 with tab1:
     add_update_tab()
 
 with tab2:
     add_analytics_tab()
+
+with tab3:
+    add_analytics_month_tab()
 
 
 
