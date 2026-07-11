@@ -236,3 +236,7 @@
 2026-07-11 22:10:48,510 - db_helper - INFO - Fetching expense by date 2024-08-10
 2026-07-11 22:10:59,201 - db_helper - INFO - Fetching expense by date 2024-08-10
 2026-07-11 22:13:16,406 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 22:18:46,742 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 22:18:48,814 - db_helper - INFO - fetch_expense_summary_by_months
+2026-07-11 22:19:34,190 - db_helper - INFO - Fetching expense by date 2024-08-10
+2026-07-11 22:19:36,253 - db_helper - INFO - fetch_expense_summary_by_months
