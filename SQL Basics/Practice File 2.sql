@@ -1,0 +1,15 @@
+SELECT * FROM actors;
+
+SELECT CURDATE(); 
+SELECT YEAR(CURDATE()); 
+SELECT *, YEAR(CURDATE()) - birth_year AS age 
+FROM actors
+ORDER BY age DESC ;
+
+SELECT CURDATE(); 
+SELECT YEAR(CURDATE()); 
+SELECT *, YEAR(CURDATE()) - birth_year AS age 
+FROM actors
+ORDER BY age ;
+
+
