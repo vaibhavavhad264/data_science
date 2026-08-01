@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b69284b-283f-4ea6-a1b8-218bb26bba40" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/py tutorials/assignment_4_classes_exception_handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/assignment_4_classes_exception_handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/datasets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -129,6 +141,7 @@
     "Python.oddEven.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",

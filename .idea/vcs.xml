@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py tutorials/Project Expense Tracking System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py tutorials/project-1 hospitality domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" vcs="Git" />
   </component>
 </project>
