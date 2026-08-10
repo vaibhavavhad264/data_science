@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b69284b-283f-4ea6-a1b8-218bb26bba40" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/.gitignore" beforeDir="false" />
@@ -23,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -115,48 +116,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.10_vol_cylinder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12_modules_and_pip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13_file_handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_exception_handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19_1_main()_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19_2_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20_assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_expenses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_dish.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oddEven.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_vol_cylinder.executor": "Run",
+    "Python.11_tuple.executor": "Run",
+    "Python.12_modules_and_pip.executor": "Run",
+    "Python.13_file_handling.executor": "Run",
+    "Python.14_assignment.executor": "Run",
+    "Python.15_oops.executor": "Run",
+    "Python.16_class.executor": "Run",
+    "Python.17_inheritance.executor": "Run",
+    "Python.18_exception_handling.executor": "Run",
+    "Python.19_1_main()_method.executor": "Run",
+    "Python.19_2_test.executor": "Run",
+    "Python.20_assignment.executor": "Run",
+    "Python.7_expenses.executor": "Run",
+    "Python.8_while_loop.executor": "Run",
+    "Python.9_functions.executor": "Run",
+    "Python.gradiant_descent.executor": "Run",
+    "Python.list_dish.executor": "Run",
+    "Python.oddEven.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Python.gradiant_descent">
+    <configuration name="gradiant_descent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/3_Gradient_Descent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/3_Gradient_Descent/gradiant_descent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gradiant_descent" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
