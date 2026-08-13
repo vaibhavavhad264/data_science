@@ -6,29 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7b69284b-283f-4ea6-a1b8-218bb26bba40" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/1_supervise_learning_regression/home_prices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/1_supervise_learning_regression/linear_reg_single_variable.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/1_supervise_learning_regression/linear_regression_single_variable.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/2_multiple_linear_regration/home_prices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/2_multiple_linear_regration/linear_regression_multiple_variable.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/3_Gradient_Descent/gradiant_descent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/3_Gradient_Descent/home_prices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/4_Train_Test/mpg.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/4_Train_Test/train_test_split.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/4_Train_Test/train_test_split_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/5_L1L2Regularization_resources/L1_L2_regularization_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/5_L1L2Regularization_resources/L1_L2_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/5_L1L2Regularization_resources/dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/5_L1L2Regularization_resources/dataset_generator.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise1/assignment.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise1/weather_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise3/assignment.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise3/weather_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise4/assignment.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise4/student_scores.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise5/assignment.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise5/assignment_solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ML_Regression_Exercise5/patient_health_data.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" beforeDir="false" afterPath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py tutorials/project-1 hospitality domain/datasets/.idea/.gitignore" beforeDir="false" />
