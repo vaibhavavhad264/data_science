@@ -1,3 +1,3 @@
-import area
+import area as a
 
-print(area.calculate_area_of_triangle(6,7))
+print(a.calculate_area_of_triangle(6,7))

@@ -7,11 +7,13 @@ class Player:
         return runs
 
 class Game(Player):
-    def __init__(self, name, age):
+    def __init__(self, name, age, matches_played):
         super().__init__(name, age)
-        self.name = "Vaibhav"
+        self.matches_played = matches_played
+        # self.name = "Vaibhav"
 
-KhoKho = Game("Virat", 38)
+KhoKho = Game("Virat", 38, 200)
 print(KhoKho.name)
 print(KhoKho.age)
+print(KhoKho.matches_played)
 

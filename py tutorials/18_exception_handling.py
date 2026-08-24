@@ -5,12 +5,12 @@
 #     b = int(input("Enter another number: "))
 #     global c
 #     c = a / b
-# # except ZeroDivisionError as ze:
-# #     print("Error occurred :",ze)
-# #     c = -1
-# # except ValueError as ve:
-# #     print("Error occurred :", ve)
-# #     c = -1
+# except ZeroDivisionError as ze:
+#     print("Error occurred :",ze)
+#     c = -1
+# except ValueError as ve:
+#     print("Error occurred :", ve)
+#     c = -1
 # except Exception as e:                      # Its not good way to except the error
 #     print("Error occurred :", e)
 
